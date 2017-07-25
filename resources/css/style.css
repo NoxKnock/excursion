@@ -39,3 +39,7 @@ p{
   margin: auto;
   padding: 40px;
 }
+
+footer {
+  text-align: right;
+}
