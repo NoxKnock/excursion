@@ -41,5 +41,7 @@ p{
 }
 
 footer {
-  text-align: right;
+  margin-left: auto;
+  color: gray;
+  font-size: 20px;
 }
